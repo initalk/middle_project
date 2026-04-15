@@ -176,6 +176,10 @@ footer p {
   }
 
   main {
-    height: 450px;
+    height: auto;
+  }
+
+  .team-flex {
+    display: inherit;
   }
 }
