@@ -144,11 +144,11 @@ footer p {
 
   nav ul {
     flex-direction: column;
-    background-color: #fff; /* 흰색 배경 */
+    background-color: #fff;
     position: absolute;
     top: 80px;
     right: 0;
-    width: 100%; /* 화면 전체 너비 */
+    width: 92.6%;
     padding: 1rem;
   }
 
