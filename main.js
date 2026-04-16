@@ -29,7 +29,7 @@ const menus = [
     mainMenu: '차돌왕짬뽕',
     img: 'img/4. 짬뽕.jpg',
     price: '12,000원',
-    score_img: 'img/3,4. 짜장, 짬뽕 평점.jpg',
+    score_img: 'img/3.4. 짜장, 짬뽕 평점.jpg',
   },
   {
     shop: '김밥',
@@ -409,7 +409,7 @@ function recommendMenu() {
         <h3>${menu.name}</h3>
         <p>${menu.mainMenu}</p>
         <p>${menu.price}</p>
-        <img src="${menu.score_img}" alt="${menu.name}">
+        <img src="${menu.score_img}" alt="">
       `
   card.classList.remove('hidden')
   card.classList.add('show')
