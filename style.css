@@ -57,7 +57,7 @@ nav a:hover {
 }
 
 main {
-  height: 500px;
+  height: 800px;
   background-color: #f9e9e9;
   padding: 2rem;
   text-align: center;
@@ -89,7 +89,7 @@ footer p {
 }
 
 .menu-card img {
-  max-width: 100%;
+  max-width: 97%;
   border-radius: 8px;
 }
 
@@ -163,7 +163,7 @@ footer p {
   }
 
   nav a {
-    color: #333; /* 흰 배경에서 잘 보이도록 글자색 변경 */
+    color: #333;
     font-size: 1.2rem;
   }
 
@@ -176,7 +176,7 @@ footer p {
   }
 
   main {
-    height: auto;
+    height: 600px;
   }
 
   .team-flex {
