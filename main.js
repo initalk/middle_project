@@ -21,7 +21,7 @@ const menus = [
     mainMenu: '짜장면',
     img: 'img/3. 짜장면.jpg',
     price: '7,000원',
-    score_img: 'img/3. 짜장면 평점.jpg',
+    score_img: 'img/3,4. 짜장, 짬뽕 평점.jpg',
   },
   {
     shop: '짬뽕',
@@ -29,7 +29,7 @@ const menus = [
     mainMenu: '차돌왕짬뽕',
     img: 'img/4. 짬뽕.jpg',
     price: '12,000원',
-    score_img: 'img/4. 짬뽕 평점.jpg',
+    score_img: 'img/3,4. 짜장, 짬뽕 평점.jpg',
   },
   {
     shop: '김밥',
